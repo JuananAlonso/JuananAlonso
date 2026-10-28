@@ -45,5 +45,5 @@ I enjoy challenging myself through hackathons, public speaking, and competitive 
 
 ## Connect With Me
 
-- LinkedIn: [My LinkedIn](YOUR_LINKEDIN_URL)
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/juanan-alns/)
 - Resume: [Download CV](YOUR_CV_URL)
