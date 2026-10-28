@@ -47,4 +47,4 @@ I enjoy challenging myself through hackathons, public speaking, and competitive 
 
 - LinkedIn: [My LinkedIn](https://www.linkedin.com/in/juanan-alns/)
 - Resume: [Download CV](./Juan_Antonio_Alonso_Lima_ML_MLOps.pdf)
-- Gmail: [jaalonsolima@gmail.com]
+- Gmail: jaalonsolima@gmail.com
