@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="244" viewBox="0 0 1200 244" role="img" aria-labelledby="title desc">
+  <title id="title">From data to working software.</title>
+  <desc id="desc">A midnight blue banner with mint typography and a diagram connecting data, models and software.</desc>
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#29404e"/>
+    </pattern>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#112532"/>
+      <stop offset="1" stop-color="#0d1924"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="244" rx="18" fill="url(#panel)"/>
+  <rect x="720" width="480" height="244" rx="18" fill="url(#grid)"/>
+  <rect x="40" y="38" width="30" height="3" rx="1.5" fill="#8ce0c8"/>
+  <text x="82" y="44" fill="#a8c0cc" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" letter-spacing="2">DATA ENGINEERING / AI / MLOPS</text>
+  <g font-family="DejaVu Sans, Arial, sans-serif" font-weight="700" font-size="46" letter-spacing="-1.4">
+    <text x="40" y="111" fill="#f3f7fa">From data to</text>
+    <text x="40" y="167" fill="#8ce0c8">working software.</text>
+  </g>
+  <text x="42" y="210" fill="#a8c0cc" font-family="DejaVu Sans, Arial, sans-serif" font-size="14">Python · Machine Learning · Software Engineering</text>
+  <g fill="none" stroke="#8ce0c8" stroke-width="1.5" opacity="0.45">
+    <path d="M784 74H838Q854 74 854 90V106H889M784 170H838Q854 170 854 154V138H889M937 122H991"/>
+    <path d="M1039 122H1112"/>
+  </g>
+  <g stroke="#365463" stroke-width="1.5" fill="#152e3a">
+    <rect x="737" y="50" width="48" height="48" rx="12"/>
+    <rect x="737" y="146" width="48" height="48" rx="12"/>
+    <rect x="889" y="98" width="48" height="48" rx="12"/>
+    <rect x="991" y="98" width="48" height="48" rx="12"/>
+  </g>
+  <g fill="none" stroke="#8ce0c8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M751 66H771M751 74H766M751 82H771M751 162H771M751 170H766M751 178H771"/>
+    <path d="M901 129L909 119L916 124L925 112M1006 114L1000 122L1006 130M1024 114L1030 122L1024 130M1018 111L1012 133"/>
+  </g>
+  <circle cx="1118" cy="122" r="7" fill="#f2b79e"/>
+  <g fill="#a8c0cc" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" text-anchor="middle" letter-spacing="1.5">
+    <text x="761" y="222">DATA</text>
+    <text x="913" y="175">MODEL</text>
+    <text x="1015" y="175">BUILD</text>
+  </g>
+</svg>

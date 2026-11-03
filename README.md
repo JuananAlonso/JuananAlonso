@@ -1,50 +1,79 @@
-# Hi, I'm Juan Antonio Alonso
+<p>
+  <img src="./assets/header.svg" width="1200" alt="From data to working software — Data Engineering, AI and MLOps" />
+</p>
 
-### Data Engineering & AI Student | Software Engineering · AI · MLOps
+# Juan Antonio Alonso Lima
 
-I'm studying Data Engineering and Artificial Intelligence at Complutense University of Madrid.
+**Data Engineering & Artificial Intelligence student · UCM · Madrid**
 
-I'm passionate about software engineering, machine learning, and building technology that solves real-world problems.
+I build data pipelines, reproducible ML workflows and applications. My interests sit at the intersection of **software engineering, machine learning and MLOps**.
 
-## About Me
+<p>
+  <a href="https://raw.githubusercontent.com/JuananAlonso/JuananAlonso/main/Juan_Antonio_Alonso_Lima_ML_MLOps.pdf"><img src="./assets/cv-button.svg" height="36" width="128" alt="Download CV — PDF" /></a>
+  <a href="https://www.linkedin.com/in/juanan-alns/"><img src="./assets/linkedin-button.svg" height="36" width="102" alt="LinkedIn" /></a>
+  <a href="mailto:jaalonsolima@gmail.com"><img src="./assets/email-button.svg" height="36" width="84" alt="Email me" /></a>
+</p>
 
-- Studying Data Engineering & AI at UCM
-- Winner of the Most Innovative Solution Award at DATAfórum Justicia 2026
-- Co-founder of ADOFI, my university's Computer Science Debate Association
-- Interested in Software Engineering, MLOps, and AI
-- Passionate about hackathons, competitive programming, and public speaking
+[View CV on GitHub](./Juan_Antonio_Alonso_Lima_ML_MLOps.pdf) · [Selected projects](#selected-projects) · [Beyond engineering](#beyond-engineering)
 
-## Featured Projects
+## Selected projects
 
-### ModelOps
-An MLOps platform focused on reproducible ML pipelines, experiment tracking, and software engineering best practices.
+### [ModelOps ↗](https://github.com/JuananAlonso/ModelOps)
 
-**Python | MLflow | LightGBM | Pytest | GitHub Actions**
+**Reproducible ML workflows** · Personal project, in development
 
-[View Project](https://github.com/JuananAlonso/ModelOps)
+Built baseline and LightGBM training pipelines with shared data splits, dataset fingerprints and saved evaluation artifacts. Integrated local MLflow Tracking and Model Registry, with automated checks for recovered-model prediction consistency and CI for lint, tests and package builds.
 
-### IgnisAI
-A geospatial machine learning platform for wildfire risk prediction, combining environmental data with predictive modeling.
+`Python` `scikit-learn` `LightGBM` `MLflow` `pytest` `GitHub Actions`
 
-**Python | XGBoost | FastAPI | Docker | Mapbox**
+### [IgnisAI ↗](https://github.com/UCM-GIDIA-PD1/c2526-R3)
 
-[View Project](https://github.com/UCM-GIDIA-PD1/c2526-R3)
+**Wildfire risk prediction** · Academic team project
 
-### GymFlex
-A mobile fitness application combining workout tracking, performance analytics, and social features.
+Refactored environmental-data extraction into an asynchronous Python pipeline with bounded concurrency and retries. Developed XGBoost experiment workflows with Bayesian hyperparameter search in Weights & Biases for imbalanced wildfire data.
 
-**React Native | Expo | Supabase**
+`Python` `asyncio` `aiohttp` `XGBoost` `Weights & Biases`
 
-[View Project](https://github.com/UCM-FDI-DISIA/proyectogp-gymflex))
+### [Chavales Legales ↗](https://github.com/lucasosp/ChavalesLegales-TeamUCM)
 
-## Beyond Coding
+**Interactive storytelling for legal education** · Hackathon team prototype
 
-I co-founded ADOFI, a university debate association where I organize workshops, debates, and competitions.
+Helped build and deploy a choice-based visual novel for young people involved in judicial proceedings, using AI-assisted development for interactions, story and visual assets. Our UCM team won the **Most Innovative Solution Award at DATAthon Justicia 2026**.
 
-I enjoy challenging myself through hackathons, public speaking, and competitive environments.
+`Interactive storytelling` `AI-assisted development` `Remote deployment`
 
-## Connect With Me
+### [GymFlex ↗](https://github.com/UCM-FDI-DISIA/proyectogp-gymflex)
 
-- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/juanan-alns/)
-- Resume: [Download CV](./Juan_Antonio_Alonso_Lima_ML_MLOps.pdf)
-- Gmail: jaalonsolima@gmail.com
+**Workout tracking & social features** · Team project
+
+Implemented workout logging backed by Supabase, including exercise sets, repetitions and weights. Developed direct messaging and user-search flows, and improved duplicate-message handling and draft recovery after failed sends.
+
+`React Native` `Expo` `Supabase`
+
+## Beyond engineering
+
+**Co-founder of ADOFI**, a university public speaking and debate association, where I deliver workshops and organize debates and competitions.
+
+Competed in **20+ debate tournaments** and reached **two Spanish national league finals**; also served as team captain and judged British Parliamentary debates.
+
+**Languages** · Spanish — native · English — C1 · French — B2, certified
+
+## Résumé
+
+My one-page CV focuses on **Machine Learning & MLOps**.
+
+[**Open the PDF ↗**](./Juan_Antonio_Alonso_Lima_ML_MLOps.pdf) · [**Download ↗**](https://raw.githubusercontent.com/JuananAlonso/JuananAlonso/main/Juan_Antonio_Alonso_Lima_ML_MLOps.pdf)
+
+<details>
+  <summary>Preview my one-page CV</summary>
+
+  <p>
+    <a href="./Juan_Antonio_Alonso_Lima_ML_MLOps.pdf">
+      <img src="./assets/cv-preview.png" width="560" alt="Preview of Juan Antonio Alonso Lima's one-page Machine Learning and MLOps CV. Open the linked PDF for selectable text and full resolution." />
+    </a>
+  </p>
+</details>
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/juanan-alns/) · [jaalonsolima@gmail.com](mailto:jaalonsolima@gmail.com)
