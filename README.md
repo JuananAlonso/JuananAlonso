@@ -18,7 +18,7 @@ I build data pipelines, reproducible ML workflows and applications. My interests
 
 ## Open source contributions
 
-[**1 merged pull request**](https://github.com/pulls?q=is%3Apr%20is%3Amerged%20author%3AJuananAlonso%20is%3Apublic%20-user%3AJuananAlonso) in external open source projects.
+[![Merged pull requests in external open source projects](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dis%253Apr%2520is%253Amerged%2520author%253AJuananAlonso%2520is%253Apublic%2520-user%253AJuananAlonso%26per_page%3D1&query=%24.total_count&label=Open%20source%20PRs%20merged&color=8957e5&style=flat&cacheSeconds=300)](https://github.com/pulls?q=is%3Apr%20is%3Amerged%20author%3AJuananAlonso%20is%3Apublic%20-user%3AJuananAlonso)
 
 Contributed to [dataprof](https://github.com/AndreaBozzo/dataprof) by [restricting release workflow permissions and disabling persisted checkout credentials](https://github.com/AndreaBozzo/dataprof/pull/1217).
 
