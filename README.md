@@ -16,6 +16,12 @@ I build data pipelines, reproducible ML workflows and applications. My interests
 
 [View CV on GitHub](./Juan_Antonio_Alonso_Lima_ML_MLOps.pdf) · [Selected projects](#selected-projects) · [Beyond engineering](#beyond-engineering)
 
+## Open source contributions
+
+[**1 merged pull request**](https://github.com/pulls?q=is%3Apr%20is%3Amerged%20author%3AJuananAlonso%20is%3Apublic%20-user%3AJuananAlonso) in external open source projects.
+
+Contributed to [dataprof](https://github.com/AndreaBozzo/dataprof) by [restricting release workflow permissions and disabling persisted checkout credentials](https://github.com/AndreaBozzo/dataprof/pull/1217).
+
 ## Selected projects
 
 ### [ModelOps ↗](https://github.com/JuananAlonso/ModelOps)
